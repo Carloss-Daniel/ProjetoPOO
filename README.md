@@ -2,8 +2,8 @@
 
 Repositório para desenvolvimento do projeto final da disciplina de Programação Orientada a Objetos.
 
-# Nosso projeto simulará o processo de votação e resultado de uma eleição,(Poderá sofrer mudanças de acordo com a viabilidade do projeto)
-que consistirá de dois terminais, a do mesário, onde o eleitor é identificado e autorizado a votar e o terminal do eleitor, onde é registrado numericamente o voto.
+# Nosso projeto simulará o processo de votação e resultado de uma eleição.(Poderá sofrer mudanças de acordo com a viabilidade do projeto)
+consistirá de dois terminais, a do mesário, onde o eleitor é identificado e autorizado a votar e o terminal do eleitor, onde é registrado numericamente o voto.
 
 No primeiro: Verificar se o eleitor pertence aquela urna.
 No segundo: Onde serão registrado os votos.
