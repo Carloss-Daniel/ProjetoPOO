@@ -3,10 +3,11 @@
 Repositório para desenvolvimento do projeto final da disciplina de Programação Orientada a Objetos.
 
 ## Visao Geral
-Nosso projeto simulará o processo de votação e resultado de uma eleição.(Poderá sofrer mudanças de acordo com a viabilidade do projeto)
+Nosso projeto simulará o processo de votação e resultado de uma eleição. (Poderá sofrer mudanças de acordo com a viabilidade do projeto)
 consistirá de dois terminais, a do mesário, onde o eleitor é identificado e autorizado a votar e o terminal do eleitor, onde é registrado numericamente o voto.
 
 No primeiro: Verificar se o eleitor pertence aquela urna.
+
 No segundo: Onde serão registrado os votos.
 
 Serão apuradas a quantidades de votos válidos e inválidos. Os votos serão destinados aos candidatos a Presidente, Governador, Senador, Deputado Federal e Deputado Estadual.
